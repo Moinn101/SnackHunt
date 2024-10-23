@@ -323,7 +323,7 @@ suspend fun fetchBusinesses(
         val term = if (searchTerm.isBlank()) category else searchTerm
 
         val response: Response<YelpSearchResponse> =
-            yelpApiService.searchBusinesses(term = term, location = "NYC") // Replace with desired location
+            yelpApiService.searchBusinesses(term = term, location = "NYC") 
 
 
         if (response.isSuccessful) {
