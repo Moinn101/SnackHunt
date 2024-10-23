@@ -3,7 +3,9 @@
 Key functionalities implemented:
 
 Pizza and Juice Search: The app allows users to search for "pizza" or "juice" around the NYC area.
+
 Image-based Navigation: Users can also click on the respective images to directly access pizza or juice spots.
+
 Rendered Results: The results are displayed in a clean, user-friendly list format with information such as location, ratings, and phone numbers.
 
 ![Snackhunt1](https://github.com/user-attachments/assets/ecedd9cc-ba8f-49e0-a976-c8859eb9f96c)
